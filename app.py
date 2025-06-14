@@ -1,5 +1,5 @@
-dia = input('qual o dia do seu aniversário? ')
-mes = input('qual o mes do seu aniversário? ')
-ano = input('qual ano do seu nascimento? ')
+a = int(input('Escolha u número :'))
+b = int(input('Escolha outro número :'))
+soma = a + b
 
-print(f'seu aniversário é : {dia}/{mes}/{ano}')
+print(f'a soma entre os dois números escolhidos é : {soma}')
