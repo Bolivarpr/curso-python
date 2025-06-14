@@ -1,5 +1,5 @@
-nome = input('qual seu nome?')
+dia = input('qual o dia do seu aniversário? ')
+mes = input('qual o mes do seu aniversário? ')
+ano = input('qual ano do seu nascimento? ')
 
-print(f'Seja bem-vinda {nome} ao seu primeiro emprego!', 'Esperamos que goste do ambiente de trabalho e de sua nova equipe!')
-
-
+print(f'seu aniversário é : {dia}/{mes}/{ano}')
